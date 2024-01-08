@@ -1,12 +1,13 @@
 body {
-  background: #004092;
+  background: #003861;
   font-family: "Ubuntu", sans-serif;
   overflow-x: hidden;
 }
 
 .root {
+  margin: 25px 0;
   width: 100vw;
-  height: 100vh;
+  max-height: 100vh;
   display: flex;
   align-items: center;
   justify-content: center;
