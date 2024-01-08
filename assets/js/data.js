@@ -17,11 +17,11 @@ export const data = [
   },
   {
     id: 3,
-    link: "DóndeEstásCorazón.mp3",
-    genre: "Pop",
-    track: "Dónde Estás Corazón",
-    group: "Shakira",
-    year: 1995,
+    link: "NoMeConoce.mp3",
+    genre: "Reggaeton",
+    track: "No Me Conoce (Remix)",
+    group: "Jhay Cortez ft J Balvin ft Bad Bunny",
+    year: 2019,
   },
   {
     id: 4,
@@ -30,5 +30,22 @@ export const data = [
     track: "Columbia",
     group: "Quevedo",
     year: 2023,
-  }
+  },
+  {
+    id: 5,
+    link: "QuePretendes.mp3",
+    genre: "Reggaeton",
+    track: "Que Pretendes",
+    group: "J Balvin ft Bad Bunny",
+    year: 2019,
+  },
+  {
+    id: 6,
+    link: "EllaQuiereBeber.mp3",
+    genre: "Reggaeton",
+    track: "Ella Quiere Beber Remix",
+    group: "Anuel AA",
+    year: 2019,
+  },
+
 ];

@@ -276,3 +276,5 @@ const AudioController = {
 };
 
 AudioController.init();
+
+localStorage.setItem("playlist", JSON.stringify(data))
